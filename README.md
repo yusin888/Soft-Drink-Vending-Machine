@@ -104,9 +104,6 @@ Contributions are welcome! Please follow these steps:
 ## License
 MIT License
 
-## Contact
-Your Name - [your.email@example.com]
-Project Link: [https://github.com/yourusername/soft-drink-vending-machine]
 
 ## Acknowledgments
 - Theory of Computing course materials
